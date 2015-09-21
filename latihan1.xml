@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<data_mahasiswa>
+	<mhs categori="KOMSI">
+		<nama>Fajar Barrun</nama>
+		<nim>03672</nim>
+		<alamat>Cilacap</alamat>
+	</mhs>
+	<mhs categori="ELINS">
+		<nama>Farisa</nama>
+		<nim>03628</nim>
+		<alamat>Madiun</alamat>
+	</mhs>
+	<mhs categori="REKMED">
+		<nama>Redha</nama>
+		<nim>03693</nim>
+		<alamat>Malang</alamat>
+	</mhs>
+</data_mahasiswa>

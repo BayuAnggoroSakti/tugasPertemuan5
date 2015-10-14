@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<data>
+  <mahasiswa>
+    <nim>0</nim>
+    <nama>ddd</nama>
+    <alamat>dd</alamat>
+    <prodi>d</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>11</nim>
+    <nama>e</nama>
+    <alamat>dd</alamat>
+    <prodi>dd</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>111</nim>
+    <nama>lintang</nama>
+    <alamat>surabaya</alamat>
+    <prodi>rekmed</prodi>
+  </mahasiswa>
+  <mahasiswa>
+    <nim>123</nim>
+    <nama>Bayu Anggoro</nama>
+    <alamat>pati</alamat>
+    <prodi>komsi</prodi>
+  </mahasiswa>
+</data>
